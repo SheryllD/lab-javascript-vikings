@@ -112,7 +112,6 @@ class War {}
 
 <br>
 
-
 ### Iteration 1: Soldier
 
 Modify the `Soldier` class and add 2 methods to it: `attack()`, and `receiveDamage()`.
